@@ -1,9 +1,8 @@
 # mon-projet
-local ***
-skfqdsfjmq
-
 ** C'est mon premier readme Youpi
 
-local ***
-local ***
-local ***
+gitub
+skfqdsfjmq
+
+bidule truc chouette
+github
